@@ -45,8 +45,6 @@ I enjoy turning ideas into working software — from frontend experiences and ba
 
 ---
 
-My long-term goal is to understand how these technologies can come together to create **new kinds of software and digital infrastructure**.
-
 ---
 
 ## 📚 Currently Learning
