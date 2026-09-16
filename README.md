@@ -22,28 +22,26 @@ I enjoy turning ideas into working software — from frontend experiences and ba
 
 ## ⚙️ Tech I'm Exploring
 
-**Languages**
+**Languages:**
 `JavaScript` `TypeScript` `Python`
 
-**Frontend**
+**Frontend:**
 `HTML` `CSS` `React` `Next.js`
 
-**Backend**
+**Backend:**
 `Node.js` `Express` `REST APIs`
 
-**Database**
+**Database:**
 `MongoDB` `PostgreSQL` `Redis`
 
-**Web3**
+**Web3:**
 `Blockchain` `Smart Contracts` `Wallets` `Web3 APIs`
 
-**AI**
+**AI:**
 `AI Agents` `LLMs` `Automation` `AI APIs`
 
-**Tools**
+**Tools:**
 `Git` `GitHub` `VS Code` `Docker`
-
----
 
 ---
 
